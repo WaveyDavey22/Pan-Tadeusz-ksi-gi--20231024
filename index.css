@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-size: 7vh;
+}
+h1{
+    font-size: 4vh;
+}
+body{
+    background-color: gray;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 3vh;
+}
+.bg
